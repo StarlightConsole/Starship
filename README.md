@@ -15,7 +15,7 @@ including `arm_64bit=1` and `init_uart_clock=48000000`.
 ([`JTAG ↗`](https://en.wikipedia.org/wiki/JTAG) support is currently WIP)
 
 When your SD card is formatted and configured, simply put the latest
-[`kernel8.img ↗`](https://github.com/StarlightConsole/Starship/releases/downloads/latest/kernel8.img)
+[`kernel8.img ↗`](https://github.com/StarlightConsole/Starship/releases/latest/download/kernel8.img)
 (found under the [`Releases ↗`](https://github.com/StarlightConsole/Starship/releases/latest) tab)
 onto the card and boot the device.
 
